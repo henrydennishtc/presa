@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sistema Integral Lagunillas"
+  search: true
+  favicon: ./img/logo.ico
+  reader-mode: true
+  navbar:
+    right: 
+      - text: Inicio
+        href: index.qmd
+      - text: Presa Lagunillas
+        menu:
+          - text: Control Diario
+            href: Control-diario.qmd
+          - text: Datos Históricos
+            href: Historico.qmd
+      - text: Monitoreo Hidrométrico
+        menu:
+          - text: Data Histórica
+            href: RH-Historica.qmd
+          - text: Red Hidrométrica
+            href: Red-hidrometrica.qmd
+        
+      - text: Proyectos PEBLT
+        href: Proyectos.qmd
+        
+      - text: Intercambio de Datos
+        menu: 
+          - text: Data Espacial
+            href: Informacion_Espacial.qmd
+            
+      - text: Clima
+        href: Clima.qmd
+      
+        
+  page-footer:
+    background: light
+    center: "© Sistema Integral Lagunillas - PEBLT - 2024"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+editor: visual
+

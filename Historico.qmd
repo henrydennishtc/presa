@@ -1,0 +1,28 @@
+---
+title: "Datos Históricos - Presa Lagunillas"
+format: 
+  html:
+    grid: 
+        body-width: 1200px
+        sidebar-width: 200px
+        margin-width: 200px
+lang: es
+---
+
+El siguiente Dashboard muestra información histórica de datos de volumen, cota de embalse y descargas de la compuerta de la presa Lagunillas en el periodo 2001 al 2023.
+
+Puede seleccionar un periodo de análisis de interés haciendo click en la sección "**Selecciona un periodo**", donde deberá poner una fecha de inicio y una fecha de fin.
+
+### 
+
+<iframe width="1200" height="2250" src="https://lookerstudio.google.com/embed/reporting/c64ba047-65bd-4602-87de-cc6ec32da139/page/voRVC" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
+### **Importante**
+
+-   El PEBLT no se hace responsable del uso de terceros de la información publicada en este reporte.
+
+-   El presente reporte contiene  información  colectada  in situ  y  no cuenta con un control de calidad  (Toda información revisada y validada deberá solicitarla por mesa de partes de la institución).
+
+-   Para solicitar acceso a la descarga de los datos mostrados en el reporte escribanos a : **data.operacion\@gmail.com**.

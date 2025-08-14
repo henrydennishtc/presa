@@ -1,0 +1,28 @@
+---
+title: "Control Diario - Presa Lagunillas"
+format: 
+  html:
+    grid: 
+        body-width: 1200px
+        sidebar-width: 200px
+        margin-width: 200px
+lang: es
+---
+
+En el siguiente Dashboard se muestran los datos tomados en la Presa Lagunillas a una escala de tiempo diaria y en un rango de tiempo anual, por lo tanto se muestran dichos datos desde enero a diciembre del año 2024.
+
+Los datos de cota de embalse son tomados diariamente y a partir de ello se calculan otros parámetros mostrados en el Dashboard (volumen total y volumen acumulado diario ).
+
+Los datos de descarga de la compuerta son datos de operación de la compuerta, dicha operación se encuentra acorde al **PLAN DE APROVECHAMIENTO DE LA DISPONIBILIDAD HÍDRICA** de la campaña agrícola en curso.
+
+<iframe width="1200" height="2500" src="https://datastudio.google.com/embed/reporting/8e6dacb4-1d84-454d-8e88-91b41fcad71a/page/qX5SC" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
+### **Importante**
+
+-   El PEBLT no se hace responsable del uso de terceros de la información publicada en este reporte.
+
+-   El presente reporte contiene  información  colectada  in situ  y  no cuenta con un control de calidad  (Toda información revisada y validada deberá solicitarla por mesa de partes de la institución).
+
+-   Para solicitar acceso a la descarga de los datos mostrados en el reporte escribanos a : **data.operacion\@gmail.com**.

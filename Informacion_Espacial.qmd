@@ -1,0 +1,40 @@
+---
+title: "Información Espacial"
+format: 
+  html:
+    grid: 
+        body-width: 1200px
+        sidebar-width: 200px
+        margin-width: 200px
+lang: es 
+---
+
+## Batimetria del Embalse Lagunillas
+
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
+## Faja Marginal - Embalse Lagunillas
+
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre_FM/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
+## Obras de Arte Canal de Derivación Cabana - Mañazo
+
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre_OArt/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
+## sistema endorreico Titicaca - Desaguadero - Poopó - Salar de Coipasa
+
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/TDPS/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
+## Área de embalse - Presa Lagunillas
+
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/IH-SIL/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>

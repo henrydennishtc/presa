@@ -1,0 +1,10 @@
+---
+title: "Sistema Integral Lagunillas"
+image: ./img/slides.gif
+about: 
+      template: jolla
+      image-shape: rectangle
+      image-width: 50em
+---
+
+Garantizando el recurso hídrico en la cuenca del río Coata.

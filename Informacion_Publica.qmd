@@ -1,0 +1,27 @@
+---
+title: "Información Pública"
+format: 
+  html:
+    grid: 
+        body-width: 1200px
+        sidebar-width: 200px
+        margin-width: 200px
+lang: es 
+---
+
+En Construcción
+
+::: panel-tabset
+## Documentos
+
+| Información | Enlace de descarga |
+|:--:|:--:|
+| Diseño Definitivo - Presa lagunillas | [**Descargar**](https://drive.usercontent.google.com/u/0/uc?id=18V8pvXhqbXCM8Ghk8G_RYH_H13NkakEQ&export=download) [**PDF**](https://drive.usercontent.google.com/u/0/uc?id=18V8pvXhqbXCM8Ghk8G_RYH_H13NkakEQ&export=download "Click para descargar") |
+| Estudio Geológico, Geotécnico Complementario - Sistema Hídrico Lagunillas | [**Descargar**](https://drive.usercontent.google.com/u/0/uc?id=1vlyFbx45VXWJvby5yCWC4lf09oCccK3C&export=download) [**PDF**](https://drive.usercontent.google.com/u/0/uc?id=1vlyFbx45VXWJvby5yCWC4lf09oCccK3C&export=download "Click para descargar") |
+| Estudio Hidrológico del Sistema Integral Lagunillas | [**Descargar PDF**](https://drive.usercontent.google.com/u/0/uc?id=1LnYEqhgzR37O641JIV5-Ap8_K0UZo6KG&export=download) |
+| Faja Marginal del Embalse Lagunillas | [**Descargar PDF**](https://www.ana.gob.pe/sites/default/files/normatividad/files/67-RD-0233-2019-08.pdf) |
+
+## Archivos CAD
+
+En Construcción
+:::
